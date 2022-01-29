@@ -1,2 +1,5 @@
-# cheatsheets
-Cheat sheets for terminal, vim, tmux, gdb, and other pro tools
+# Cheat Sheets
+- Terminal: ready
+- Vim: ready
+- Git: ready
+Feel free to reuse the files as you see fit
